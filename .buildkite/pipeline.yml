@@ -3,7 +3,7 @@ steps:
     command: "script.sh"
   - wait: ~
   - label: "Example Test"
-    command: echo "Hello!"
+    command: echo "Hellooooo!"
   - block: ":rocket: Are we ready?"
   - input: "Who is running this script?"
     fields:
